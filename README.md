@@ -13,6 +13,7 @@
 ![image](https://github.com/icheung487/BellyButton_Challenge/blob/main/Images/Bubble_Chart.png)
 
 * Bar Chart: 
+
 ![image](https://github.com/icheung487/BellyButton_Challenge/blob/main/Images/Bar_Chart.png)
 
 * Gauge Chart: 
